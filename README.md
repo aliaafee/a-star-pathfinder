@@ -6,7 +6,10 @@ Pathfinder using A* search algorithm, implemented in C++ and packaged as a pytho
 
 ## Required Dependencies
 
-Clone pybind11 repo available at https://github.com/pybind/pybind11 to `pybind11` folder.
+pybind11 (https://github.com/pybind/pybind11) is required.
+```
+git submodule init
+```
 
 ## Build
 
